@@ -6,7 +6,8 @@
 
 ##### 贡献者名单
 
-[查看项目贡献者](https://github.com/your-username/your-repo)
+<!-- CONTRIBUTORS LIST -->
+<!-- CONTRIBUTORS LIST END -->
 
 ## 更新日志
 

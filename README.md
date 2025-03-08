@@ -6,8 +6,9 @@
 
 ##### 贡献者名单
 
-<!-- CONTRIBUTORS LIST -->
-<!-- CONTRIBUTORS LIST END -->
+<a href="https://github.com/codeduang/face_recognition_app_by_insightface_and_faiss/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeduang/face_recognition_app_by_insightface_and_faiss" />
+</a>
 
 ## 更新日志
 

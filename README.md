@@ -1,6 +1,12 @@
 ## 致谢
+##### 参考项目
+
 - 人脸画框+特征提取使用开源项目insightface：https://github.com/deepinsight/insightface
 - 特征向量的存储和比对，使用开源项目faiss: https://github.com/facebookresearch/faiss
+
+##### 贡献者名单
+
+[查看项目贡献者](https://github.com/your-username/your-repo)
 
 ## 更新日志
 

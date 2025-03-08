@@ -4,7 +4,7 @@
 - 人脸画框+特征提取使用开源项目insightface：https://github.com/deepinsight/insightface
 - 特征向量的存储和比对，使用开源项目faiss: https://github.com/facebookresearch/faiss
 
-##### 贡献者名单
+##### 贡献者
 
 <a href="https://github.com/codeduang/face_recognition_app_by_insightface_and_faiss/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=codeduang/face_recognition_app_by_insightface_and_faiss" />

@@ -20,7 +20,7 @@
 ## 使用手册
 
 ##### python环境
-python推荐使用3.x
+python推荐使用3.x  
 faiss-gpu #如果没有cuda，请使用 faiss-cpu
 
 

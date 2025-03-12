@@ -24,16 +24,16 @@ python推荐使用3.x
 faiss-gpu #如果没有cuda，请使用 faiss-cpu
 
 #### 目录结构
-face_recognition_app_by_insightface_and_faiss
- |-models
- |  |-buffalo_s
- |      |-1k3d68.onnx
- |      |-2d106det.onnx
- |      |-det_500m.onnx
- |      |-genderage.onnx
- |      |-w600k_mbf.onnx
- |-FaissFace.py
- |-faiss_util.py
- |-img_to_vector.py
+face_recognition_app_by_insightface_and_faiss  
+ |-models  
+ |  |-buffalo_s  
+ |      |-1k3d68.onnx  
+ |      |-2d106det.onnx  
+ |      |-det_500m.onnx  
+ |      |-genderage.onnx  
+ |      |-w600k_mbf.onnx  
+ |-FaissFace.py  
+ |-faiss_util.py  
+ |-img_to_vector.py  
 
 

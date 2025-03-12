@@ -13,6 +13,8 @@
 
 ## 更新日志
 
+### 2025.3.12
+- [x] README.md文档补充了完整目录结构。
 ### 2025.3.7
 - [x] 封装了人脸检测模型和faiss向量数据库，提供函数：添加人脸身份、删除人脸身份、获取所有人脸身份、检索图片中所有人脸信息。
 
@@ -23,7 +25,7 @@
 python推荐使用3.x  
 faiss-gpu #如果没有cuda，请使用 faiss-cpu
 
-#### 目录结构
+#### 目录结构（请通过./models/buffalo_s文件夹下的路径下载所需的insightface模型）
 face_recognition_app_by_insightface_and_faiss  
 ├── FaissFace.py  
 ├── faiss_util.py  

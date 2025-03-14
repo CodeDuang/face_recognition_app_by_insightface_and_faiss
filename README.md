@@ -25,6 +25,7 @@
 python推荐使用3.x  
 faiss-gpu #如果没有cuda，请使用 faiss-cpu
 opencv-python
+insightface
 
 #### 目录结构（请通过./models/buffalo_s文件夹下的路径下载所需的insightface模型）
 face_recognition_app_by_insightface_and_faiss  

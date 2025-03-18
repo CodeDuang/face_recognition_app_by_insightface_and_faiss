@@ -1,0 +1,6 @@
+__pycache__
+__init__.py
+img
+faiss_db
+.venv
+*.onnx
